@@ -1,5 +1,7 @@
 # hollandjs
 
+:zap: This project is abandoned to make way for [github.com/nl-js](https://github.com/nl-js). The hollandjs.nl website now permanently redirects to [http://nljs.nl](http://nljs.nl). If you want have questions or want to contribute please hop over to [github.com/nl-js](https://github.com/nl-js). 
+
 ## What is it?
  
 It's a site for listing all js related events in the Netherlands.
